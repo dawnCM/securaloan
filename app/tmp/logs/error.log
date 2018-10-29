@@ -1,0 +1,135 @@
+2018-01-02 02:20:38 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:20:38 Error: [InternalErrorException] Internal Server Error
+Request URL: /application/setSessionDataAjax?q=%2Fapplication%2FsetSessionDataAjax
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-01-02 02:22:46 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:22:46 Error: [InternalErrorException] Internal Server Error
+Request URL: /application/setSessionDataAjax?q=%2Fapplication%2FsetSessionDataAjax
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-01-02 02:22:46 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:22:46 Error: [InternalErrorException] Internal Server Error
+Request URL: /application/setSessionDataAjax?q=%2Fapplication%2FsetSessionDataAjax
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-01-02 02:22:48 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:22:48 Error: [InternalErrorException] Internal Server Error
+Request URL: /application?q=%2Fapplication
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-01-02 02:23:03 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:23:03 Error: [InternalErrorException] Internal Server Error
+Request URL: /application/setSessionDataAjax?q=%2Fapplication%2FsetSessionDataAjax
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-01-02 02:23:03 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:23:03 Error: [InternalErrorException] Internal Server Error
+Request URL: /application/setSessionDataAjax?q=%2Fapplication%2FsetSessionDataAjax
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-01-02 02:23:10 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:23:10 Error: [InternalErrorException] Internal Server Error
+Request URL: /application/setSessionDataAjax?q=%2Fapplication%2FsetSessionDataAjax
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-01-02 02:23:10 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:23:10 Error: [InternalErrorException] Internal Server Error
+Request URL: /application/setSessionDataAjax?q=%2Fapplication%2FsetSessionDataAjax
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-01-02 02:23:11 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of ParseError given in /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php:116
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(ParseError))
+#1 {main}
+  thrown in [/var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php, line 116]
+2018-01-02 02:23:11 Error: [InternalErrorException] Internal Server Error
+Request URL: /application?q=%2Fapplication
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116)
+#1 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(933): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/c...', 116, Array)
+#2 /var/www/html/cakephp/clickmedia/securaloan.xyz/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-02-23 02:27:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/.png?q=%2Fimg%2F.png
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-02-23 02:27:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/.png?q=%2Fimg%2F.png
+Stack Trace:
+#0 /var/www/html/cakephp/clickmedia/securaloan.xyz/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
